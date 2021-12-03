@@ -21,4 +21,4 @@
 
 * view_edit.png
 
-*ide.png
+* ide.png
