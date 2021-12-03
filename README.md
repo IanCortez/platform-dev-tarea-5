@@ -45,7 +45,7 @@
 ![edit](https://user-images.githubusercontent.com/85956402/144549107-ed60ec2b-6449-4c67-9c75-4c2456172447.jpg)
 
 
-* view_edit.png (foto equivocada)
+* view_edit.png
 
 ![view_edit](https://user-images.githubusercontent.com/85956402/144549641-be5b3940-e3bf-4e78-bcf9-a6e199172685.jpg)
 
